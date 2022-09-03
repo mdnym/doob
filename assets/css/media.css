@@ -10,7 +10,7 @@ header {
     width: 50%;
 }
 .main_content {
-    width: 375px;
+    width: 340px;
     margin-top: 97px;
 }
 .main_content h1 {
@@ -61,23 +61,16 @@ header {
 a.nav_contact {
     padding: 10px 20px;
 }
-#m_nav{
-	text-align: center;
-}
+
 .dropdown-menu.show {
     text-align: center;
 }
 .drop_lang .dropdown-item {
     margin: 0 auto;
 }
-
-
-
-
-
-
-
-
+#m_nav {
+    text-align: center;
+}
 
 }
 
@@ -87,7 +80,10 @@ a.nav_contact {
 .portfolio_bg img {
     width: 43%;
 }
-	
+
+#m_nav {
+    text-align: center;
+}
 
 }
 
@@ -158,22 +154,12 @@ header {
     right: -14px;
     width: 50%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.fixed-top{
+	display: none;
+}
+#m_nav {
+    text-align: center;
+}
 
 
 }
@@ -186,15 +172,11 @@ header {
 	    font-size: 25px;
 	}
 
-
-
 }
 
 /* X-Large devices (large desktop, 1200px and up) */
 @media (min-width: 1200px) and (max-width: 1399.98px){
 	
-
-
 }
 
 /* XX-Large devices (larger desktops 1400 and up */
